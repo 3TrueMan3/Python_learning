@@ -1,0 +1,10 @@
+def dig_pow(n, p):
+    number = str(n)
+    x = int()
+    for i in range(len(number)):
+        x += (int(number[i]))**(p + i)
+    if x % n == 0:
+        return x//n
+    else:
+        return -1
+print(dig_pow(89,1))
