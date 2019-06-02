@@ -6,4 +6,4 @@ def zeros(n):
     return x
 
 
-print(zeros(10000))
+print(zeros(6))
