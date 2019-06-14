@@ -1,38 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1cbeeb3a-706a-4daf-a09a-976d2d8a8bec" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Iters_and_generators.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Michael.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lst.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/range.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/Python Osn&amp;Prim.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/dictionaries/Michael.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Alice_decryption.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Alice_passw/encrypted.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Alice_passw/passwords.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Buffer.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Calc_date.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exceptions.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Legacies.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MoneyBox.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PositiveList.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../check.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fib.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../import_lesson.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simplecrypt/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simplecrypt/example-file.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simplecrypt/example-interactive.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simplecrypt/tests.py" beforeDir="false" />
-    </list>
+    <list default="true" id="1cbeeb3a-706a-4daf-a09a-976d2d8a8bec" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,8 +31,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/generators.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="25" column="12" lean-forward="true" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
+            <state relative-caret-position="272">
+              <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -221,7 +190,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1296" height="1000" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24960254" />
@@ -232,7 +200,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3298731" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3298731" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -259,8 +227,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/generators.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="12" lean-forward="true" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
+        <state relative-caret-position="272">
+          <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
         </state>
       </provider>
     </entry>
