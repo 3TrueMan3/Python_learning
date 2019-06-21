@@ -2,22 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="82285f3a-5c30-4a1e-b22a-7760259d874d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Files.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Michael.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files_append.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files_write.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/os_practice.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/py_search.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reversed_file.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/with.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Iters_and_generators/Prime_gen.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../CW/6kyu PrimeNum/PrimeNum.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../CW/6kyu PrimeNum/PrimeNum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Iters_and_generators/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Iters_and_generators/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/py_search.py" beforeDir="false" afterPath="$PROJECT_DIR$/py_search.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task/answer_search_py.txt" beforeDir="false" afterPath="$PROJECT_DIR$/task/answer_search_py.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,36 +12,19 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/py_search.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+            <state relative-caret-position="136">
+              <caret line="8" column="52" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/task/main/answer_search_py.txt">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/task/answer_search_py.txt">
           <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/os_practice.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="35" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="11" selection-end-column="35" />
-              <folding>
-                <element signature="e#0#9#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
         </entry>
       </file>
     </leaf>
@@ -86,7 +55,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="896" />
     <option name="y" value="40" />
     <option name="width" value="1440" />
@@ -100,17 +69,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope">
-        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
-          <expand>
-            <path>
-              <item name="Files" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="F:\Dropbox\DEV\PythonLearning\Stepik\Python Osn&amp;Prim\Files" type="442cc68d:ScopeViewTreeModel$RootNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -123,11 +81,16 @@
               <item name="Files" type="462c0819:PsiDirectoryNode" />
               <item name="task" type="462c0819:PsiDirectoryNode" />
             </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
             <path>
-              <item name="Files" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Files" type="462c0819:PsiDirectoryNode" />
-              <item name="task" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="Files" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="F:\Dropbox\DEV\PythonLearning\Stepik\Python Osn&amp;Prim\Files" type="442cc68d:ScopeViewTreeModel$RootNode" />
             </path>
           </expand>
           <select />
@@ -288,6 +251,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.21917808" />
@@ -298,8 +262,8 @@
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" />
       <window_info anchor="bottom" id="Version Control" order="5" />
-      <window_info anchor="bottom" id="Run" order="6" weight="0.32936078" />
-      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.3997833" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="10" />
@@ -381,27 +345,27 @@
     <entry file="file://$PROJECT_DIR$/.idea/test1_copy.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/task/main/answer_search_py.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/os_practice.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
-          <caret line="11" column="35" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="11" selection-end-column="35" />
+          <caret line="11" column="35" selection-start-line="10" selection-start-column="1" selection-end-line="11" selection-end-column="35" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/task/answer_search_py.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/py_search.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+        <state relative-caret-position="136">
+          <caret line="8" column="52" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/task/main/answer_search_py.txt">
+    <entry file="file://$PROJECT_DIR$/task/answer_search_py.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
