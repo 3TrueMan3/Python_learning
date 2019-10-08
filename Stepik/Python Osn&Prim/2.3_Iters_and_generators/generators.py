@@ -24,3 +24,7 @@ def random_generator(k):
 gen = random_generator(3)
 for i in gen:
     print(i)
+print('')
+itr = RandomIterator(5)
+for i in itr:
+    print(i)
